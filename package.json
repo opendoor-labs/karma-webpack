@@ -1,6 +1,6 @@
 {
   "name": "karma-webpack",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "author": "Tobias Koppers @sokra",
   "description": "Use webpack with karma",
   "peerDependencies": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "async": "~0.9.0",
     "loader-utils": "^0.2.5",
-    "lodash": "^3.8.0",
+    "lodash": "^4.0.0",
     "source-map": "^0.1.41",
     "webpack-dev-middleware": "^1.0.11"
   },
